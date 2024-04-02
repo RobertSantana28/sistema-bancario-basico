@@ -1,4 +1,3 @@
-Claro, aqui está o README atualizado para o seu sistema bancário básico com as funções de depósito, saque e extrato, feito em Python:
 
 ---
 
